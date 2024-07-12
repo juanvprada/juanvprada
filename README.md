@@ -20,10 +20,6 @@
   </ul>
 </div>
 
-## 📈 Estadísticas de GitHub
-<div style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
-  ![Estadísticas de GitHub](https://github.com/juanvprada)
-</div>
 
  ##  En mi tiempo libre
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
@@ -32,4 +28,9 @@
     <li> Música </li>
     <li> Cine y teatro </li>
   </ul>
+</div>
+
+## 📈 Estadísticas de GitHub
+<div style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
+  ![Estadísticas de GitHub](https://github.com/juanvprada)
 </div>
