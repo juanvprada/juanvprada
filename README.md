@@ -13,10 +13,10 @@
 ## 🔧 Tecnologías y Herramientas
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <ul>
-    <li> HTML, CSS, JavaScript, HTML, CSS, TAILWIND, MYSQL</li>
-    <li>JavaScript, TypeScript, POO, Node.js, MongoDB, SQL</li>
-    <li>React, FIGMA, JIRA, Trello, GIT, Vitest, Jest</li>
-    <li>Supertest, Cloudinary, Json, AGILE</li>
+    <li> HTML, CSS, JavaScript, TAILWIND, MYSQL</li>
+    <li> TypeScript, POO, Node.js, MongoDB, SQL</li>
+    <li> React, FIGMA, JIRA, Trello, GIT, Vitest, Jest</li>
+    <li> Supertest, Cloudinary, Json, AGILE</li>
     
   </ul>
 </div>
