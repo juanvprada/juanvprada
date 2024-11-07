@@ -41,6 +41,6 @@
   ![Linkdin](linkedin.com/in/juanvprada)
 </div>
 
-![Banner](https://link-de-tu-imagen.png)
+![Banner](https://github.com/juanvprada/juanvprada/blob/main/bg1.jpg?raw=true)
 
 
