@@ -53,7 +53,8 @@
 
 ## 📈 Redes sociales
 <div style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanvprada)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvprada)
+
 
 </div>
 
