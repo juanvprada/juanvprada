@@ -35,3 +35,12 @@
 <div style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
   ![Estadísticas de GitHub](https://github.com/juanvprada)
 </div>
+
+## 📈 Redes sociales
+<div style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
+  ![Linkdin](linkedin.com/in/juanvprada)
+</div>
+
+![Banner](https://link-de-tu-imagen.png)
+
+
