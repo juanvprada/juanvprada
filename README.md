@@ -1,8 +1,6 @@
 
 
 
-![Banner](https://github.com/juanvprada/juanvprada/blob/main/bg1.jpg?raw=true)
-
 <div style="background-color: #282c34; padding: 20px; border-radius: 10px;">
   <h1 style="color: #61dafb; text-align: center;">Hola, soy Juan Vázquez Prada 👋</h1>
   <p style="color: white; text-align: center;">
